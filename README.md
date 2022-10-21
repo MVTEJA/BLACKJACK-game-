@@ -19,3 +19,5 @@ You must use OOP and classes in some portion of your game. You can not just use 
 Feel free to expand this game. Try including multiple players. Try adding in Double-Down and card splits!
 
 play this game and have fun !!!
+
+second edit for learning git
